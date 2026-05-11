@@ -93,11 +93,11 @@ Additional transformations performed:
 ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard Overview](dashboard/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ### Filtered Dashboard
-![Filtered Dashboard](dashboard/dashboard_filtered.png)
-![Filtered Dashboard](dashboard/dashboard_filtered2.png)
+![Filtered Dashboard](dashboard_filtered.png)
+![Filtered Dashboard](dashboard_filtered2.png)
 
 
 ## Project Structure
